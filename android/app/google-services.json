@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492643157550",
+    "project_id": "my-diary-cac79",
+    "storage_bucket": "my-diary-cac79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492643157550:android:0923161e66283ca6da01bf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnz00iTgAO-Ms3j6H8ZPv8QvfC097a_ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
